@@ -1,1 +1,1 @@
-# azure-iac
+# Using terraform for Azure workshop
